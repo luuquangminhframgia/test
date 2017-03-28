@@ -1,0 +1,10 @@
+// Bootstrap Reboot only
+//
+// Includes only Normalize and our custom Reboot reset.
+
+@import "bootstrap/_variables";
+@import "bootstrap/_mixins";
+@import "bootstrap/_custom";
+
+@import "bootstrap/_normalize";
+@import "bootstrap/_reboot";

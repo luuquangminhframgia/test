@@ -11,7 +11,6 @@
  *
  * @package mytheme
  */
-var_dump('1111111111');
 get_header(); ?>
 
 	<div id="primary" class="content-area">

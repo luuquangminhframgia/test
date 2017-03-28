@@ -1,0 +1,15 @@
+.site-footer{
+	background: #222;
+	color: #999;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	overflow: hidden;
+	a{
+		color: #fff;
+		&:hover,
+		&:focus,
+		&:visited{
+			color: #00b6f0;
+		}
+	}
+}
