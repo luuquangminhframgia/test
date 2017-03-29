@@ -257,7 +257,63 @@ get_header();
 			<div class="p-2 bd-highlight">Flex item</div>
 		</div>
 	</div>
-
+	<div class="bd-example">
+		<div class="d-flex align-content-between flex-wrap bd-highlight mb-3" style="height: 200px">
+			<div class="p-2 bd-highlight">Flex item</div>
+			<div class="p-2 bd-highlight">Flex item</div>
+			<div class="p-2 bd-highlight">Flex item</div>
+			<div class="p-2 bd-highlight">Flex item</div>
+			<div class="p-2 bd-highlight">Flex item</div>
+			<div class="p-2 bd-highlight">Flex item</div>
+			<div class="p-2 bd-highlight">Flex item</div>
+			<div class="p-2 bd-highlight">Flex item</div>
+			<div class="p-2 bd-highlight">Flex item</div>
+			<div class="p-2 bd-highlight">Flex item</div>
+			<div class="p-2 bd-highlight">Flex item</div>
+			<div class="p-2 bd-highlight">Flex item</div>
+			<div class="p-2 bd-highlight">Flex item</div>
+			<div class="p-2 bd-highlight">Flex item</div>
+			<div class="p-2 bd-highlight">Flex item</div>
+		</div>
+	</div>
+	<div class="bd-example">
+		<div class="d-flex align-content-around flex-wrap bd-highlight mb-3" style="height: 200px">
+			<div class="p-2 bd-highlight">Flex item</div>
+			<div class="p-2 bd-highlight">Flex item</div>
+			<div class="p-2 bd-highlight">Flex item</div>
+			<div class="p-2 bd-highlight">Flex item</div>
+			<div class="p-2 bd-highlight">Flex item</div>
+			<div class="p-2 bd-highlight">Flex item</div>
+			<div class="p-2 bd-highlight">Flex item</div>
+			<div class="p-2 bd-highlight">Flex item</div>
+			<div class="p-2 bd-highlight">Flex item</div>
+			<div class="p-2 bd-highlight">Flex item</div>
+			<div class="p-2 bd-highlight">Flex item</div>
+			<div class="p-2 bd-highlight">Flex item</div>
+			<div class="p-2 bd-highlight">Flex item</div>
+			<div class="p-2 bd-highlight">Flex item</div>
+			<div class="p-2 bd-highlight">Flex item</div>
+		</div>
+	</div>
+	<div class="bd-example">
+		<div class="d-flex align-content-stretch flex-wrap bd-highlight mb-3" style="height: 200px">
+			<div class="p-2 bd-highlight">Flex item</div>
+			<div class="p-2 bd-highlight">Flex item</div>
+			<div class="p-2 bd-highlight">Flex item</div>
+			<div class="p-2 bd-highlight">Flex item</div>
+			<div class="p-2 bd-highlight">Flex item</div>
+			<div class="p-2 bd-highlight">Flex item</div>
+			<div class="p-2 bd-highlight">Flex item</div>
+			<div class="p-2 bd-highlight">Flex item</div>
+			<div class="p-2 bd-highlight">Flex item</div>
+			<div class="p-2 bd-highlight">Flex item</div>
+			<div class="p-2 bd-highlight">Flex item</div>
+			<div class="p-2 bd-highlight">Flex item</div>
+			<div class="p-2 bd-highlight">Flex item</div>
+			<div class="p-2 bd-highlight">Flex item</div>
+			<div class="p-2 bd-highlight">Flex item</div>
+		</div>
+	</div>
 	<hr style="margin-bottom: 50px" />
 </div>
 
